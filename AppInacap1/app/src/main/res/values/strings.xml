@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Seguro de Vehiculo</string>
+    <string name="mensaje_titulo">Cálculo Valor Seguro</string>
+    <string name="mensaje_patente">Ingrese Patente</string>
+    <string name="mensaje_modelo">Seleccione Marca</string>
+    <string name="mensaje_marca">Seleccione Modelo</string>
+    <string name="mensaje_ano">Ingrese Año Vehiculo</string>
+    <string name="mensaje_uf">Ingrese Valor UF Actual</string>
+    <string name="hint_patente">XX0000</string>
+    <string-array name="marca_array">
+        <item>Aston Martin</item>
+        <item>Bentley</item>
+        <item>Corvette</item>
+        <item>Dodge</item>
+        <item>Ford</item>
+        <item>Hyundai</item>
+        <item>Jaguar</item>
+    </string-array>
+    <string name="hint_modelo">Ingresa Modelo</string>
+    <string name="hint_ano">AAAA</string>
+    <string name="hint_uf">00000</string>
+    <string name="hint_boton_consultar">Consultar</string>
+
+</resources>
